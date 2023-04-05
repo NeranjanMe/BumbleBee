@@ -1,6 +1,6 @@
 # BumbleBee
 
-Customer Register Page
+**Customer Register Page**
 
 Step 1: Access the Bumble Bee Web Interface
 
@@ -15,7 +15,6 @@ Click on the "Register" button to submit the registration form.
 
 Step 5: A confirmation message
 You will receive a confirmation message “Customer Saved Successfully” indicating that you have successfully registered for the Bumble Bee web application. After that automatically redirect to the Customer login page.
-
 
 **Customer Login Page**
 
@@ -33,7 +32,7 @@ Click on the "Login" button to access the Bumble Bee Place Order Page.
 Step 5: Access the Dashboard
 You will be directed to the Bumble Bee Place Order Page, which allows you to Place an Order and view Customer Details, and Product List.
 
-Customer Place Order Page
+**Customer Place Order Page**
 
 Step 1: Access the Customer Place Order Page
 Log in to the Bumble Bee web application and click on the "Place Order" button to access the Customer Place Order page.
@@ -50,7 +49,7 @@ On the right side of the page, you can place orders with or without a loan. If y
 Step 5: Submit Your Order
 After you have selected the products you want to order, click on the "Purchase" button to submit your order. You will receive a confirmation message indicating that “Order Placed Successfully”.
 
-Admin Login Page
+**Admin Login Page**
 
 Step 1: Access the Bumble Bee Web Interface
 
@@ -66,10 +65,8 @@ Click on the "Login" button to access the Bumble Bee admin dashboard.
 Step 5: Access the Dashboard
 You will be directed to the Bumble Bee admin dashboard, which allows you to view customer details, and manage product details, inventory, and category, Brands.
 
-Admin Dashboard Page
-
+**Admin Dashboard Page**
  
-
 Step 1: Access the Bumble Bee Web Interface
 
 Step 2: Access the Login Page
@@ -77,23 +74,17 @@ Step 2: Access the Login Page
 Step 3: Access the Admin Dashboard
 On the Bumble Bee dashboard, click on the "Home" button to access the Admin Dashboard page.
 
-Using the Admin Dashboard:
+**Using the Admin Dashboard:**
+
 Once you have accessed the Admin Dashboard page, you can view the following information:
 
-•	Customer Count: Total number of registered customers.
-•	Order Count: Total number of orders placed.
-•	Total Income: Total income generated from orders.
+- Customer Count: Total number of registered customers.
+- Order Count: Total number of orders placed.
+- Total Income: Total income generated from orders.
 
+**Admin View Orders Page**
 
-
-
-
-
-Admin View Orders Page
-
- 
-
-Step 1: Access the Bumble Bee Web Interface
+ Step 1: Access the Bumble Bee Web Interface
 
 Step 2: Access the Admin View Orders Page
 On the Bumble Bee dashboard, click on the "View Orders" button to access the Admin View Orders page.
@@ -101,9 +92,7 @@ On the Bumble Bee dashboard, click on the "View Orders" button to access the Adm
 Step 3: View the Orders List
 On the Admin View Orders page, you will see a list of all the orders, their loan amount, and paid amounts. 
 
-Admin Manage Items Page
-
- 
+**Admin Manage Items Page**
 
 Step 1: Access the Bumble Bee Web Interface
 
@@ -121,9 +110,7 @@ Select the product, category, brand, price, product status, or inventory item th
 Step 6: Update, Remove or Add the Item
 Make the necessary changes to the item details or add a new item. Click on the "Update Item" or "Delete Item" button to update or remove the item. Click on the "Add item" button to add a new item.
 
-Admin Customer Page
-
- 
+**Admin Customer Page**
 
 Step 1: Access the Bumble Bee Web Interface
 
@@ -135,8 +122,7 @@ On the admin dashboard, click on the "Customers" tab to access the Customer Page
 Step 4: View Customer Details
 The list of registered customers will be displayed, including their customer ID, full name, date of birth, username, telephone number, and address. 
 
-Admin Manage Category Page
-
+**Admin Manage Category Page**
  
 Step 1: Log in to Bumble Bee Web Application
 
@@ -146,10 +132,8 @@ On the admin dashboard, click on the "Manage Categories" button to access the Ad
 Step 3: Update, Remove or Add the Category
 Make the necessary changes to the Category details or add a new Category. Click on the "Update Category" or "Delete Category" button to update or remove the item. Click on the "Add Category" button to add a new item.
 
-Admin Manage Brands Page
-
+**Admin Manage Brands Page**
  
-
 Step 1: Log in to Bumble Bee Web Application
 
 Step 2: Click on the "Manage Brands" button
