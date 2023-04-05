@@ -2,10 +2,6 @@
 
 Customer Register Page
 
- 
-
-
-
 Step 1: Access the Bumble Bee Web Interface
 
 Step 2: Click on the "Signup" button
@@ -21,13 +17,7 @@ Step 5: A confirmation message
 You will receive a confirmation message “Customer Saved Successfully” indicating that you have successfully registered for the Bumble Bee web application. After that automatically redirect to the Customer login page.
 
 
-Customer Login Page
-
- 
-
-
-
-
+**Customer Login Page**
 
 Step 1: Access the Bumble Bee Web Interface
 
@@ -45,9 +35,6 @@ You will be directed to the Bumble Bee Place Order Page, which allows you to Pla
 
 Customer Place Order Page
 
- 
-
-
 Step 1: Access the Customer Place Order Page
 Log in to the Bumble Bee web application and click on the "Place Order" button to access the Customer Place Order page.
 
@@ -64,8 +51,6 @@ Step 5: Submit Your Order
 After you have selected the products you want to order, click on the "Purchase" button to submit your order. You will receive a confirmation message indicating that “Order Placed Successfully”.
 
 Admin Login Page
-
- 
 
 Step 1: Access the Bumble Bee Web Interface
 
